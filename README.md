@@ -1,6 +1,6 @@
 # DataStrucs
 
-This file contains notes about various Data Structures and the alorithms used to them. I learnt everything from an excellent book called "Grokking Algorithms" (https://www.manning.com/books/grokking-algorithms?gclid=Cj0KCQjwivbsBRDsARIsADyISJ95hy8r_5mac1eiFFX5V_f7Fqxod_Kw_bHOwp4hbFSUPd4i12kTMz4aAvsVEALw_wcB).
+This file contains notes about various Data Structures and the algorithms used to implement them. I learned everything from an excellent book called "Grokking Algorithms" (https://www.manning.com/books/grokking-algorithms?gclid=Cj0KCQjwivbsBRDsARIsADyISJ95hy8r_5mac1eiFFX5V_f7Fqxod_Kw_bHOwp4hbFSUPd4i12kTMz4aAvsVEALw_wcB).
 
 # Simple Search:
 O(n)
